@@ -1,0 +1,50 @@
+_repo: The-Art-of-War_13549
+_version: 0.1.0
+alternative_title: Précis de l'art de la guerre. English
+contributor:
+  translators:
+  - agent_name: Mendell, George H. (George Henry)
+    alias: Mendell, George Henry
+    birthdate: 1831
+    deathdate: 1902
+    gutenberg_agent_id: '5127'
+    url: http://www.gutenberg.org/2009/agents/5127
+  - agent_name: Craighill, Wm. P. (William Price)
+    aliases:
+    - Craighill, William P. (William Price)
+    - Craighill, William Price
+    birthdate: 1833
+    deathdate: 1909
+    gutenberg_agent_id: '5126'
+    url: http://www.gutenberg.org/2009/agents/5126
+    wikipedia: http://en.wikipedia.org/wiki/William_Price_Craighill
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jomini, Antoine Henri, baron de
+    aliases:
+    - Jomini, Henri, baron
+    - De Jomini, Antoine Henri, baron
+    birthdate: 1779
+    deathdate: 1869
+    gutenberg_agent_id: '5124'
+    url: http://www.gutenberg.org/2009/agents/5124
+    wikipedia: http://en.wikipedia.org/wiki/Antoine-Henri_Jomini
+description: Part 1. Problems of strategy in China's Revolutionary War -- Part 2.
+  Problems of strategy in Guerilla War against Japan -- Part 3. On protracted war
+  -- Part 4. Problems of war and strategy.
+gutenberg_issued: '2004-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'U'
+- !lcsh 'Military art and science'
+title: The Art of War
+url: http://www.gutenberg.org/ebooks/13549
